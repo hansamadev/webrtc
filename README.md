@@ -1,0 +1,1 @@
+This project was created to help me learn WebRTC. The file upload system does not work unless connected to the server. After entering the room and username, it is possible to chat with the person in the same room as you.
